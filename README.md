@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**chinmayee302006/chinmayee302006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Chinmayee%20Adigopula&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FGenAI%20%7C%20Full-Stack%20Developer%20%7C%20Turning%20Ideas%20into%20Reality&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Chinmayee%20Adigopula&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FGenAI%20%7C%20Full-Stack%20Developer%20%7C%20Turning%20Ideas%20into%20Reality&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learn.%20Build.%20Improve." alt="Typing introduction" />
@@ -140,11 +131,4 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>collaborate on ...
-- 🤔 I’m looking for help with Generative AI, LLMs and AI Agents
-- 💬 Ask me about GenAI, RAG, NLP, Machine Learning and Full Stack Development
-- 📫 How to reach me:https://www.linkedin.com/in/chinmayee-adigopula/
-- 😄 Pronouns:She/Her
-- ⚡ Fun fact:I turn “What if?” into “It works.”
--->
-
+</div>
